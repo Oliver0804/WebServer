@@ -1,4 +1,15 @@
 /*
+ * how to upload
+ * 1.CH_PH=HIGH.
+ * 2.GPIO_0=LOW.
+ * 3.Reset power.
+ * 4.Upload arduino code for esp-01
+ * 5.GPIO_0 pull High.
+ * 6.System is working.
+ * 
+ */
+
+/*
  *   *=scan
  *   $=ssid
  *   %=password
